@@ -2,8 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Alistair</strong> Letcher
-description: (call me Alec.)
-# <a href="https://www.l2f.ch" target="_blank"> L2F • EPFL Innovation Park • Lausanne, Switzerland</a>
+description: <a href="https://www.l2f.ch" target="_blank"> L2F • EPFL Innovation Park • Lausanne, Switzerland</a>
 
 profile:
   align: right
