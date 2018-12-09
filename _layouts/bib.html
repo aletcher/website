@@ -11,7 +11,7 @@
 
 <div id="{{entry.key}}">
   {% if entry.type == "thesis" %}
-    {{reference}}
+    {{entry.title}}, {{entry.year}}
   {% else %}
     <span class="title">{{entry.title}}</span>
     <span class="author">
@@ -71,7 +71,7 @@
     [<a href="{{ entry.html }}" target="_blank">source</a>]
   {% endif %}
   {% if entry.pdf %}
-    [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]
+    [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">pdf</a>]
   {% endif %}
   {% if entry.supp %}
     [<a href="{{ entry.supp | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Supp</a>]
