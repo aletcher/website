@@ -370,6 +370,8 @@ footer a:hover { color: #00369f; }
 
 .center { text-align: center; }
 
+.code h3 { color: #00369f; font-size: 32px; margin-bottom: 30px; text-align: center; }
+
 .post-header { margin-bottom: 40px; }
 
 .post-list { margin: 0; padding: 0; list-style: none; }
