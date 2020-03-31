@@ -83,6 +83,7 @@ plugins:
     - jekyll-scholar
     - jekyll/scholar
     - jemoji
+    - jekyll-sitemap
 
 # Jekyll-Scholar
 scholar:
