@@ -16,7 +16,7 @@ social: true
 Looking to start a PhD in 2021. Ideally I'd like to work in an area with both 'abstract' mathematics and application area. Maybe something in theoretical machine learning, game theory or topology. I also like the work of Judea Pearl on moving from curve fitting to causal inference. Please e-mail me if you have any pointers or suggestions for research groups, supervisors or topics. :)
 {: .text-justify}
 
-I studied pure mathematics and some theoretical computer science, writing my <a href="https://aletcher.github.io/assets/pdf/bsc_thesis.pdf" target="blank">bachelor thesis</a> in number theory and my <a href="https://aletcher.github.io/assets/pdf/bsc_thesis.pdf" target="blank">master thesis</a> on multi-agent learning (also called multi-loss optimization or differentiable games).
+I studied pure mathematics and a little computer science, writing my <a href="https://aletcher.github.io/assets/pdf/bsc_thesis.pdf" target="blank">bachelor thesis</a> in number theory and my <a href="https://aletcher.github.io/assets/pdf/bsc_thesis.pdf" target="blank">master thesis</a> on multi-agent learning (also called multi-loss optimization or differentiable games).
 {: .text-justify}
 
 Currently taking a break from research to follow a professional course in contemporary dance.
