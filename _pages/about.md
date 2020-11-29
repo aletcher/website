@@ -13,7 +13,7 @@ news: false
 social: true
 ---
 
-Looking to start a PhD in 2021, most likely at the interface between mathematics and questions arising in machine learning and intelligence more generally. Other interests range from category theory to quantum computing. Feel free to e-mail me with any pointers or suggestions for research groups, supervisors or topics I might have missed. :)
+Looking to start a PhD in 2021, possibly at the interface between mathematics and questions arising in machine learning and intelligence more generally. Other interests range from number theory to quantum computing. Feel free to e-mail me with any pointers or suggestions for research groups, supervisors or topics I might have missed. :)
 {: .text-justify}
 
 I studied pure mathematics and a little computer science, writing my <a href="https://aletcher.github.io/assets/pdf/bsc_thesis.pdf" target="blank">bachelor thesis</a> in number theory and my <a href="https://aletcher.github.io/assets/pdf/msc_thesis.pdf" target="blank">master thesis</a> on multi-agent learning (also called multi-loss optimization or differentiable games). <a href="https://aletcher.github.io/publications/" target="blank">Here</a> are a couple papers I wrote in this area since then.
