@@ -13,10 +13,10 @@ news: false
 social: true
 ---
 
-Looking to start a PhD in 2021. Ideally I'd like to work in an area with both 'abstract' mathematics and application area. Maybe something in theoretical machine learning, game theory or topology. I also like the work of Judea Pearl on moving from curve fitting to causal inference. Please e-mail me if you have any pointers or suggestions for research groups, supervisors or topics. :)
+Looking to start a PhD in 2021, most likely at the interface between mathematics and questions arising in machine learning and intelligence more generally. Other interests range from category theory to quantum computing. Feel free to e-mail me with any pointers or suggestions for research groups, supervisors or topics I might have missed. :)
 {: .text-justify}
 
-I studied pure mathematics and a little computer science, writing my <a href="https://aletcher.github.io/assets/pdf/bsc_thesis.pdf" target="blank">bachelor thesis</a> in number theory and my <a href="https://aletcher.github.io/assets/pdf/msc_thesis.pdf" target="blank">master thesis</a> on multi-agent learning (also called multi-loss optimization or differentiable games). <a href="https://aletcher.github.io/publications/" target="blank">Here</a> are a couple papers I wrote in this area.
+I studied pure mathematics and a little computer science, writing my <a href="https://aletcher.github.io/assets/pdf/bsc_thesis.pdf" target="blank">bachelor thesis</a> in number theory and my <a href="https://aletcher.github.io/assets/pdf/msc_thesis.pdf" target="blank">master thesis</a> on multi-agent learning (also called multi-loss optimization or differentiable games). <a href="https://aletcher.github.io/publications/" target="blank">Here</a> are a couple papers I wrote in this area since then.
 {: .text-justify}
 
-Currently taking a break from research to follow a professional course in contemporary dance.
+Currently taking a break from research to follow a <a href="https://www.lafaktoria.org/en/" target="blank">professional course</a> in contemporary dance.

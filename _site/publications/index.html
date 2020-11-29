@@ -95,6 +95,206 @@
   <article class="post-content publications clearfix">
     <h2 class="publications">papers</h2>
 
+<h3 class="year">2020</h3>
+<ol class="bibliography"><li>
+
+<div id="global">
+  
+    <span class="title">On the Impossibility of Global Convergence in Multi-Loss Optimization</span>
+    <span class="author">
+      
+        
+          
+            <em>A. Letcher</em>
+          
+        
+      
+    </span>
+
+    <span class="periodical">
+    
+      <em>Preprint,</em>
+    
+    
+      2020
+    
+    </span>
+  
+
+  <span class="links">
+  
+    [<a class="abstract">abstract</a>]
+  
+  
+    [<a href="http://arxiv.org/abs/2005.12649" target="_blank">arXiv</a>]
+  
+  
+  
+  
+  
+  
+  
+  </span>
+
+  <!-- Hidden abstract block -->
+  
+  <span class="abstract hidden">
+    <p>Under mild regularity conditions, gradient-based methods converge globally to a critical point in the single-loss setting. This is known to break down for vanilla gradient descent when moving to multi-loss optimization, but can we hope to build some algorithm with global guarantees? We negatively resolve this open problem by proving that any reasonable algorithm will exhibit limit cycles or diverge to infinite losses in some differentiable game, even in two-player games with zero-sum interactions. A reasonable algorithm is simply one which avoids strict maxima, an exceedingly weak assumption since converging to maxima would be the opposite of minimization. This impossibility theorem holds even if we impose existence of a strict minimum and no other critical points. The proof is constructive, enabling us to display explicit limit cycles for existing gradient-based methods. Nonetheless, it remains an open question whether cycles arise in high-dimensional games of interest to ML practitioners, such as GANs or multi-agent RL.</p>
+  </span>
+  
+</div>
+</li>
+<li>
+  
+    <abbr>[<a href="https://nips.cc/" target="_blank">NIPS</a>]</abbr>
+  
+
+
+<div id="ridge">
+  
+    <span class="title">Ridge Rider: Finding Diverse Solutions by Following Eigenvectors of the Hessian</span>
+    <span class="author">
+      
+        
+          
+            
+              
+                
+                  J. Parker-Holder,
+                
+              
+            
+          
+        
+      
+        
+          
+            
+              
+                
+                  L. Metz,
+                
+              
+            
+          
+        
+      
+        
+          
+            
+              
+                
+                  C. Resnick,
+                
+              
+            
+          
+        
+      
+        
+          
+            
+              
+                
+                  H. Hu,
+                
+              
+            
+          
+        
+      
+        
+          
+            
+              
+                
+                  A. Lerer,
+                
+              
+            
+          
+        
+      
+        
+          
+            
+              <em>A. Letcher</em>,
+            
+          
+        
+      
+        
+          
+            
+              
+                
+                  A. Peysakhovich,
+                
+              
+            
+          
+        
+      
+        
+          
+            
+              
+                
+                  A. Pacchiano,
+                
+              
+            
+          
+        
+      
+        
+          
+            
+              
+                and J. Foerster
+              
+            
+          
+        
+      
+    </span>
+
+    <span class="periodical">
+    
+      <em>Advances in Neural Information Processing Systems,</em>
+    
+    
+      2020
+    
+    </span>
+  
+
+  <span class="links">
+  
+    [<a class="abstract">abstract</a>]
+  
+  
+    [<a href="http://arxiv.org/abs/2011.06505" target="_blank">arXiv</a>]
+  
+  
+    [<a href="https://proceedings.neurips.cc/paper/2020/hash/08425b881bcde94a383cd258cea331be-Abstract.html" target="_blank">source</a>]
+  
+  
+  
+  
+  
+  
+  </span>
+
+  <!-- Hidden abstract block -->
+  
+  <span class="abstract hidden">
+    <p>Over the last decade, a single algorithm has changed many facets of our lives - Stochastic Gradient Descent (SGD). In the era of ever decreasing loss functions, SGD and its various offspring have become the go-to optimization tool in machine learning and are a key component of the success of deep neural networks (DNNs). While SGD is guaranteed to converge to a local optimum (under loose assumptions), in some cases it may matter which local optimum is found, and this is often context-dependent. Examples frequently arise in machine learning, from shape-versus-texture-features to ensemble methods and zero-shot coordination. In these settings, there are desired solutions which SGD on ’standard’ loss functions will not find, since it instead converges to the ’easy’ solutions. In this paper, we present a different approach. Rather than following the gradient, which corresponds to a locally greedy direction, we instead follow the eigenvectors of the Hessian, which we call "ridges". By iteratively following and branching amongst the ridges, we effectively span the loss surface to find qualitatively different solutions. We show both theoretically and experimentally that our method, called Ridge Rider (RR), offers a promising direction for a variety of challenging problems.</p>
+  </span>
+  
+</div>
+</li></ol>
+
 <h3 class="year">2019</h3>
 <ol class="bibliography"><li>
   
@@ -110,9 +310,7 @@
         
           
             
-              
-                <em>A. Letcher</em>*,
-              
+              <em>A. Letcher</em>,
             
           
         
@@ -122,7 +320,7 @@
             
               
                 
-                  D. Balduzzi*,
+                  D. Balduzzi,
                 
               
             
